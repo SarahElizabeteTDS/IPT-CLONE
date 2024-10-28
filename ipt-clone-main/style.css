@@ -360,6 +360,17 @@ footer h5
     border-radius: 20px;
 }
 
+.botao-cadastro a 
+{
+    color: aliceblue;
+    font-size: 0.7rem;
+    text-decoration: none;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    transition: color 0.5s ease;
+}
+
 .botao-topo
 {
     width: 27%;
@@ -376,7 +387,13 @@ footer h5
     border-radius: 50px;
 }
 
-.botao-topo:a
+.botao-topo a
 {
-    font-style: normal;
+    color: #000000;
+    font-size: 0.6rem;
+    text-decoration: none;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    transition: color 0.5s ease;
 }
